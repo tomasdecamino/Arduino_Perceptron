@@ -9,6 +9,8 @@ Ussage:
 5. Train compared obtained with some desired e.g. p1.train(desired, obtained);
 
 Made for teaching poruposes www.funcostarica.org
+Released under MIT License
+Copyright (c) 2016 Tomas de-Camino-Beck
 */
 //**************Class perceptron*************
 class perceptron
