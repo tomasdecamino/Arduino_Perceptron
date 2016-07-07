@@ -1,4 +1,6 @@
 //Tomas de camino Beck
+// Released under MIT License
+//Copyright (c) 2016 Tomas de-Camino-Beck
 
 #include "Perceptron.h"
 #include <Wire.h>
