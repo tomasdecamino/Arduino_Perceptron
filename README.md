@@ -13,8 +13,9 @@ Un perceptrón programado para aprendiaje mecánico en Arduino
 ##Examples
 
 1. *Learning_Color_NN* teaching an Arduino color using a color sensor
-2. *playground_learn* teaching an Adafruit Circuit Playgound how to get the right position using accelerometer.
+2. *playground_learn* teaching an [Adafruit Circuit Playgound](https://www.adafruit.com/product/3000) how to get the right position using accelerometer.
 
+##License
 
 MIT License
 
