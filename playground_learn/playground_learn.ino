@@ -1,5 +1,7 @@
 //Tomas de camino Beck
 //www.funcostarica.org
+//Released under MIT License
+//Copyright (c) 2016 Tomas de-Camino-Beck
 
 
 #include "Perceptron.h"
